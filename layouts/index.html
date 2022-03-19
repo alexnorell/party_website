@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.venue }}
+	{{ partial "spotlight" site.Data.flights }}
+	{{ partial "spotlight" site.Data.hotels }}
+	{{ partial "gallery" site.Data.gallery }}
+	{{ partial "template/footer" . }}
+
+{{ end }}

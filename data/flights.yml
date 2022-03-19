@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Flights"
+content: |
+  San Jose is serviced by 3 international airports:<br>
+  <ul>
+  <li>San Jose (SJC) - 4 Miles </li>
+  <li>San Francisco (SFO) - 35 Miles</li>
+  <li>Oakland (OAK) - 35 Miles</li>
+  </ul>
+  We suggest flying into SJC and using Lyft, Uber, or Public Transit to get to downtown.
+button:
+  label: "Explore Flights"
+  link: "https://flights.google.com"
+image: "images/airplane.jpg"

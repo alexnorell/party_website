@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Hotels"
+content: |
+  The venue is located in downtown San Jose. We suggest you pick a hotel in downtown San Jose so that you can walk to and from the party. Some of our favorite hotels downtown:
+  <ul>
+  <li>Signa San Jose - 5 blocks</li>
+  <li>Hotel De Anza - 6 blocks</li>
+  <li>The Westin San Jose - 7 blocks</li>
+  <li>San Jose Marriot - 7 blocks</li>
+  <li>AC Hotel San Jose Downtown - 7 blocks</li>
+  <li>Four Points San Jose - 6 blocks</li>
+  <li>Hilton San Jose - 8 blocks<li>
+  <li>Hyatt Place San Jose Downtown - 8 blocks<li>
+  </ul>
+button:
+  label: "Learn More"
+  link: "#"
+image: "images/hotel_de_anza.jpg"

@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Venue"
+content: |
+  4:00 PM on Saturday September 10th, 2022 <br><br>
+  <a href="https://www.ludwigssj.com/ludwig-s-san-jose">Ludwig's German Table</a></br>
+  261 North 2nd Street</br>
+  San Jose, CA 95112</br></br>
+  There is no parking at or near the venue. Please walk or use <a href="https://www.lyft.com/i/ALEX005914?utm_medium=p2pi_iacc">Lyft</a>/Uber.
+button:
+  label: "Directions"
+  link: "https://goo.gl/maps/UVZyMfhZncWYw48G8"
+image: "images/ludwigs.webp"
