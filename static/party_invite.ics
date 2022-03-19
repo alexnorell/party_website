@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:Norell Party
+NAME:Norell Party
+REFRESH-INTERVAL;VALUE=DURATION:P4H
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220319T212336Z
+UID:1647724673812-91601@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20220910T170000
+DTEND;TZID=America/Los_Angeles:20220910T220000
+SUMMARY:Alex & Mariah's Party Celebration Thingy
+URL:https://party.norell.co
+DESCRIPTION:Alex and Mariah invite you to come have a good time and celebrate life.\n\nA lot has gone on since the last time we sent out a party invite. A global pandemic\, buying a house\, switching jobs\, celebrating 10 years together\, Mariah getting old\, etc. We want to throw a party to celebrate everything and nothing. 
+LOCATION:Ludwig's German Table 261 North 2nd Street San Jose\, CA 95112
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alex & Mariah's Party Celebration Thingy
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
