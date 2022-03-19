@@ -1,12 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+title : "Party Celebration Thingy"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  Alex and Mariah invite you to come have a good time and celebrate life.
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  A lot has gone on since the last time we sent out a party invite. A global pandemic, buying a house, switching jobs, celebrating 10 years together, Mariah getting old, etc. We want to throw a party to celebrate everything and nothing.
 button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
+  label : "RSVP"
+  link : "https://sjsu.qualtrics.com/jfe/form/SV_cZPB73qJUpPXG7k"
+image : "images/san_jose.jpg"
 
