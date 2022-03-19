@@ -20,5 +20,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "Alex and Mariah Norell invite you to a party celebration thingy on September 10, 2022."
-  logo = "images/banner.jpg"
+  logo = "images/san_jose.jpg"
   favicon = true

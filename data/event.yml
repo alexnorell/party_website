@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Event"
+content: |
+  5:00 PM on Saturday September 10th, 2022 <br>
+  German Food, Beer and Wine</br>
+button:
+  label: "Add to Calendar"
+  link: "/party_invite.ics"
+image: "images/food_and_drinks.jpg"
