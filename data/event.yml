@@ -8,4 +8,4 @@ content: |
 button:
   label: "Add to Calendar"
   link: "/party_invite.ics"
-image: "images/food_and_drinks.jpg"
+image: "images/food-and-drinks.webp"
