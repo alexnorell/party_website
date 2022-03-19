@@ -10,8 +10,8 @@ content: |
   <li>San Jose Marriot - 7 blocks</li>
   <li>AC Hotel San Jose Downtown - 7 blocks</li>
   <li>Four Points San Jose - 6 blocks</li>
-  <li>Hilton San Jose - 8 blocks<li>
-  <li>Hyatt Place San Jose Downtown - 8 blocks<li>
+  <li>Hilton San Jose - 8 blocks</li>
+  <li>Hyatt Place San Jose Downtown - 8 blocks</li>
   </ul>
 button:
   label: "Learn More"
